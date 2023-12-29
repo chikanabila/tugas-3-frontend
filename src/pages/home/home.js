@@ -29,6 +29,7 @@ const home = () => {
                 <li><b>Konsultasi dan Dukungan Pelanggan:</b><br></br>
                 Tim dukungan pelanggan kami siap membantu Anda dalam setiap tahap proses terjemahan. Kami memberikan konsultasi yang ramah dan responsif untuk memastikan kepuasan pelanggan.</li>
 
+                <h4>Dengan menggunakan layanan terjemahan dokumen kami, Anda dapat yakin bahwa pesan Anda akan diterjemahkan dengan tepat, mengatasi hambatan bahasa, dan mencapai audiens global Anda dengan efektif. Hubungi kami hari ini untuk mendiskusikan kebutuhan terjemahan Anda dan temukan solusi yang paling sesuai untuk Anda.</h4> 
                 </div></div></div></div></div>
   );
 };
