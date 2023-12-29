@@ -1,6 +1,5 @@
 import React from "react";
 import { Navbar } from "../../navbar/navbar"
-import pic from "../../image/trans.jpg"
 
 const home = () => {
   return (
@@ -11,7 +10,26 @@ const home = () => {
             <div className="d-flex justify-content-center align-items-center h-100">
               <div className="text-white">
                 <h1 className="mb-3"> JASA TRANSLATE DOKUMEN</h1>
-                  </div></div></div></div></div>
+                <h4>Selamat datang di layanan terjemahan dokumen kami, di mana keahlian bertemu dengan keandalan untuk memenuhi semua kebutuhan terjemahan Anda. Kami adalah mitra terpercaya yang siap membantu Anda mengatasi hambatan bahasa dan memastikan pesan Anda disampaikan dengan tepat dan akurat.</h4>
+
+                <h2>Keunggulan Layanan Kami:</h2>
+                <li><b>Profesionalisme Tinggi:</b><br></br>
+                Tim terjemahan kami terdiri dari para profesional yang berpengalaman dalam berbagai bidang. Mereka tidak hanya mahir dalam bahasa sumber dan 
+                sasaran, tetapi juga memahami konteks dan spesifikasinya.</li>
+                <li><b>Ketepatan dan Konsistensi::</b><br></br>
+                Kami mengutamakan ketepatan dan konsistensi dalam setiap terjemahan. Setiap kata dan frasa diperlakukan dengan cermat untuk memastikan pesan asli tetap terjaga tanpa kehilangan makna.</li>
+                <li><b>Keamanan dan Kerahasiaan:</b><br></br>
+                Kami memahami betapa pentingnya keamanan dokumen Anda. Oleh karena itu, kami mengimplementasikan langkah-langkah keamanan yang ketat untuk melindungi kerahasiaan informasi yang kami terjemahkan.</li>
+                <li><b>Kemampuan Multibahasa::</b><br></br>
+                Layanan kami mencakup berbagai bahasa, memungkinkan Anda berkomunikasi dengan pelanggan global dan mengakses pasar internasional dengan lebih mudah.</li>
+                <li><b>Fleksibilitas Waktu:</b><br></br>
+                Kami memahami bahwa waktu adalah aspek krusial dalam dunia bisnis dan proyek-proyek pribadi. Oleh karena itu, kami berkomitmen untuk memberikan terjemahan tepat waktu tanpa mengorbankan kualitas.</li>
+                <li><b>Harga yang Bersaing:</b><br></br>
+                Kami menawarkan layanan terjemahan dengan harga yang kompetitif. Kami percaya bahwa kualitas tinggi tidak harus datang dengan biaya yang tinggi.</li>
+                <li><b>Konsultasi dan Dukungan Pelanggan:</b><br></br>
+                Tim dukungan pelanggan kami siap membantu Anda dalam setiap tahap proses terjemahan. Kami memberikan konsultasi yang ramah dan responsif untuk memastikan kepuasan pelanggan.</li>
+
+                </div></div></div></div></div>
   );
 };
 
